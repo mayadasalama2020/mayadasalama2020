@@ -1,6 +1,7 @@
 # Hi, I'm Mayada Salama
 
 **Healthcare Data Analyst & Biostatistician | Clinical Pharmacy Inspector | Health Informatician**
+
 Mansoura, Egypt
 
 I combine 18+ years of clinical pharmacy experience with Python, SQL and Power BI. I clean hospital datasets, build KPI dashboards and run statistical analyses that help clinicians and managers make decisions.
